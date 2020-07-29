@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You're seeing a solver problem who use software engineer to resolve real pains
+You're seeing a solver problem who use software engineering to resolve real pains
 
 Looking for anything interesting? Maybe you'll find here!
 
