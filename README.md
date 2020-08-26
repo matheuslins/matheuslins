@@ -7,4 +7,11 @@ Looking for anything interesting? Maybe you'll find here!
 - 🌱  I’m currently learning about clean architeture and code
 - 👯  I’m looking to collaborate on open community
 - 💬  Ask me about books, movies and music
-- 📫  How to reach me: https://about.me/matheuslins
+
+
+### How to reach me 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusLins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lins-a9592b99/)](https://www.linkedin.com/in/matheus-lins-a9592b99/)
+[![Gmail Badge](https://img.shields.io/badge/-msl.mlins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msl.mlins@gmail.com)](mailto:msl.mlins@gmail.com)
+
+About Me: [![AboutMe Badge](https://img.shields.io/badge/-MatheusLins-blue?style=flat-square&logo=Aboutme&logoColor=white&link=https://about.me/matheuslins)](https://about.me/matheuslins)
