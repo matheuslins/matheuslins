@@ -14,5 +14,4 @@ Looking for anything interesting? Maybe you'll find here!
 
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusLins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lins-a9592b99/)](https://www.linkedin.com/in/matheus-lins-a9592b99/)
 [![Gmail Badge](https://img.shields.io/badge/-msl.mlins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msl.mlins@gmail.com)](mailto:msl.mlins@gmail.com)
-
-About Me: [![AboutMe Badge](https://img.shields.io/badge/-MatheusLins-blue?style=flat-square&logo=Aboutme&logoColor=white&link=https://about.me/matheuslins)](https://about.me/matheuslins)
+[![AboutMe Badge](https://img.shields.io/badge/-MatheusLins-blue?style=flat-square&logo=Aboutme&logoColor=white&link=https://about.me/matheuslins)](https://about.me/matheuslins)
