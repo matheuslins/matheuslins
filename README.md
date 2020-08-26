@@ -7,6 +7,7 @@ Looking for anything interesting? Maybe you'll find here!
 - 🌱  I’m currently learning about clean architeture and code
 - 👯  I’m looking to collaborate on open community
 - 💬  Ask me about books, movies and music
+- :coffee: is hard work, is result, is Love!
 
 
 ### How to reach me 🌎
