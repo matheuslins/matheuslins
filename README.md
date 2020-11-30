@@ -4,7 +4,7 @@ You're seeing a solver problem who use software engineering to resolve real pain
 
 Looking for anything interesting? Maybe you'll find here!
 
-- 🌱  I’m currently learning about clean architeture and code
+- 🌱  I’m currently learning about clean architeture, clean code and algorithm
 - 👯  I’m looking to collaborate on open community
 - 💬  Ask me about books, movies and music
 - :coffee: is hard work, is result, is Love!
